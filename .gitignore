@@ -1,0 +1,14 @@
+# VSCode folder
+.vscode
+
+# __pycache__
+__pycache__
+
+# Python Virtual Environment
+venv
+
+# Dev files and folders
+tmp
+environ.cmd
+heroku.env
+data-dev.sqlite
